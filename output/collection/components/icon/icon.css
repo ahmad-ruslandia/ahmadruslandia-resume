@@ -1,0 +1,13 @@
+:host {
+  display: inline;
+}
+:host svg {
+  fill: var(--accent-color);
+  max-width: 20px;
+  height: 20px;
+}
+:host .small svg {
+  fill: var(--subtle-text-color);
+  max-width: 14px;
+  height: 14px;
+}
