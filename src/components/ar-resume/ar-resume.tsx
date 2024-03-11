@@ -26,7 +26,7 @@ export class Arresume {
           </div>
         ) : (
           <div class="download-pdf screen-only">
-            <a href="https://github.com/ahmadruslandia/resume/raw/main/Ahmad%20Ruslandia%20Papua.pdf">
+            <a href="https://github.com/ahmad-ruslandia/resume/raw/main/Ahmad%20Ruslandia%20Papua.pdf">
               Download as PDF
             </a>
           </div>
