@@ -65,7 +65,7 @@ export class Arresume {
         <section class="about">
           <p class="section-title">About</p>
           <p>
-          An undergraduate computer science student and passionate multi-platform app. Have a strong background in programming especially in web and mobile development.
+          An undergraduate Computer Science student. Innovative Web and Mobile Developer with 5 years of experience in building impactful and user-friendly websites and applications. Specializes in front-end technologies and passionate about modern web standards.
           </p>
         </section>
         <section class="work">
@@ -131,21 +131,26 @@ export class Arresume {
           </span>
         </section>
         <section class="skills">
-          <p class="section-title">Framework Skills</p>
+          <p class="section-title">Skills</p>
           <ul>
             <li>
+              Web Development
               <div class="tags-container">
-                <span class="tag">.Net MAUI</span>
-                <span class="tag">.Net</span>
-                <span class="tag">Flutter</span>
-                <span class="tag">Laravel</span>
+                <span class="tag">React JS</span>
+                <span class="tag">Next JS</span>
+                <span class="tag">Vue JS</span>
+                <span class="tag">Angular</span>
                 <span class="tag">Bootstrap</span>
                 <span class="tag">CodeIgniter</span>
-                <span class="tag">Node JS</span>
-                <span class="tag">Angular JS</span>
-                <span class="tag">React JS</span>
-                <span class="tag">Vue JS</span>
-                <span class="tag">Blazor</span>
+              </div>
+            </li>
+            <br></br>
+            <li>
+              Mobile Development
+              <div class="tags-container">
+                <span class="tag">React Native</span>
+                <span class="tag">Flutter</span>
+                <span class="tag">.Net MAUI</span>
               </div>
             </li>
           </ul>
