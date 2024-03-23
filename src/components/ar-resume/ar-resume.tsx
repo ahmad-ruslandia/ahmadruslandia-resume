@@ -148,7 +148,6 @@ export class Arresume {
             <li>
               Mobile Development
               <div class="tags-container">
-                <span class="tag">React Native</span>
                 <span class="tag">Flutter</span>
                 <span class="tag">.Net MAUI</span>
               </div>
