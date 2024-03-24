@@ -51,7 +51,7 @@ export class Arresume {
             <li class="website">
               <svg-icon name="website"></svg-icon>
               <a href="https://linktr.ee/ahmadruslandia" target="_blank">
-              My Profile
+              linktr.ee/ahmadruslandia
               </a>
             </li>
           </ul>

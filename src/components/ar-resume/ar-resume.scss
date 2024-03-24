@@ -182,8 +182,6 @@
         ul {
           list-style: none;
           padding: 0;
-          li {
-          }
         }
       }
     }
@@ -323,18 +321,18 @@
 }
 
 //Dark mode
-@media (prefers-color-scheme: light)  {
-  /*
+@media (prefers-color-scheme: dark)  {
+  
   :host {
     --background-color: #32343e;
-    --accent-color: #00f9fb;
-    --subtle-accent-color: #005B5B;
+    --accent-color: #6fffff;
+    --subtle-accent-color: null;
     --secondary-color: #a491f1;
     --subtle-secondary-color: #2d2a3e;
     --text-color: #dffcfd;
     --subtle-text-color: #9eb4b5;
   }
-  */
+  
 }
 
 // Print-specific styles
