@@ -79,7 +79,7 @@ export class Arresume {
                     Sandvik
                   </span>
                 </div>
-                <small>IT Support | <svg-icon name="location" small={true}></svg-icon> Mimika Regency, Indonesia | Jun 2023 - Aug 2023</small>
+                <small>IT Support | <svg-icon name="location" small={true}></svg-icon> Mimika Regency, Indonesia | June 2023 - August 2023</small>
               </div>
               <p>Have Completed Internship at Multinational Company engaged in Technology for Mining and Construction Sector</p>
               <ul>
@@ -103,7 +103,7 @@ export class Arresume {
                 <div>
                   <span class="company-name">ABP Incubator</span>
                 </div>
-                <small>Apprentice | <svg-icon name="location" small={true}></svg-icon> Yogyakarta, Indonesia | Nov 2018 - Jan 2019</small>
+                <small>Apprentice | <svg-icon name="location" small={true}></svg-icon> Yogyakarta, Indonesia | November 2018 - January 2019</small>
               </div>
               <p>Have Completed PRAKERIN at ABP Incubator in 2019</p>
               <ul>
