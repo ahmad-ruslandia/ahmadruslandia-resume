@@ -65,7 +65,7 @@ export class Arresume {
         <section class="about">
           <p class="section-title">About</p>
           <p>
-          Innovative Web and Mobile Developer with 5 years of experience in building impactful and user-friendly websites and applications. Specializes in front-end technologies and passionate about modern web standards.
+          Innovative Web and Mobile Developer in building impactful and user-friendly websites and applications. Specializes in front-end technologies and passionate about modern web standards.
           </p>
         </section>
         <section class="work">
