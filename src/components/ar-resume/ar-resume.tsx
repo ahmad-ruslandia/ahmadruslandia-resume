@@ -65,7 +65,7 @@ export class Arresume {
         <section class="about">
           <p class="section-title">About</p>
           <p>
-          An undergraduate Computer Science student. Innovative Web and Mobile Developer with 5 years of experience in building impactful and user-friendly websites and applications. Specializes in front-end technologies and passionate about modern web standards.
+          Innovative Web and Mobile Developer with 5 years of experience in building impactful and user-friendly websites and applications. Specializes in front-end technologies and passionate about modern web standards.
           </p>
         </section>
         <section class="work">
@@ -125,8 +125,8 @@ export class Arresume {
         <section class="education">
           <p class="section-title">Education</p>
           <span>
-            Undergraduate as a{" "}
-            <u>Computer Science</u> at{" "}
+            An Undergraduate {" "}
+            <u>Computer Science</u> Student at{" "}
             <i>Universitas Muslim Indonesia</i>, 2020.
           </span>
         </section>
