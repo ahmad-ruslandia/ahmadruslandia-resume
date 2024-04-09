@@ -20,16 +20,12 @@ export class Arresume {
       <article class="resume">
         {this.showDownloadLink ? (
           <div class="download-pdf screen-only">
-            <a href="https://drive.google.com/file/d/1jkqAoSFzj6GVlaT9NgQB69WCeZDkm5UR/view?usp=drive_link">
-              Download as PDF
-            </a>
-          </div>
-        ) : (
-          <div class="download-pdf screen-only">
             <a href="https://github.com/ahmad-ruslandia/resume/raw/main/Ahmad%20Ruslandia%20Papua.pdf">
               Download as PDF
             </a>
           </div>
+        ) : (
+          ''
           )}
         <section class="name-and-contact">
           <div>
