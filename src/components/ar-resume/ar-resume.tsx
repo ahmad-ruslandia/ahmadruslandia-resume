@@ -34,20 +34,20 @@ export class Arresume {
           <ul>
             <li class="location">
               <svg-icon name="location"></svg-icon>
-              <span>Makassar, Indonesia</span>
+              <span>Location</span>
             </li>
             <li class="email">
               <svg-icon name="email"></svg-icon>
-              <a href="mailto:ruslandiaamin@gmail.com">ruslandiaamin@gmail.com</a>
+              <a href="mailto:ruslandiaamin@gmail.com">youremail@example.com</a>
             </li>
             <li class="languages">
               <svg-icon name="languages"></svg-icon>
-              <span>English, Bahasa Indonesia</span>
+              <span>Language</span>
             </li>
             <li class="website">
               <svg-icon name="website"></svg-icon>
-              <a href="https://linktr.ee/ahmadruslandia" target="_blank">
-              linktr.ee/ahmadruslandia
+              <a href="https://www.example.com/" target="_blank">
+              www.example.com
               </a>
             </li>
           </ul>
@@ -71,25 +71,23 @@ export class Arresume {
             <div class="experience">
               <div class="title">
                 <div>
-                  <span class="company-name">
-                    Sandvik
-                  </span>
+                  <span class="company-name">Example 1</span>
                 </div>
-                <small>IT Support | <svg-icon name="location" small={true}></svg-icon> Mimika Regency, Indonesia | June 2023 - August 2023</small>
+                <small>Position | Location | Year of Experience</small>
               </div>
-              <p>Have Completed Internship at Multinational Company engaged in Technology for Mining and Construction Sector</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
               <ul>
                 <li>
-                Assisted in the deployment and maintenance of IT infrastructure, ensuring optimal performance.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </li>
                 <li>
-                  Responded to help desk tickets, resolving issues related to hardware, software, and network connectivity.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </li>
                 <li>
-                Install, configure, and troubleshoot computer systems, networks, and peripherals.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </li>
                 <li>
-                Completed the final project for managing asset into a customized solution using bootsrap and codeigniter framework.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </li>
               </ul>
             </div>
@@ -97,21 +95,24 @@ export class Arresume {
             <div class="experience">
               <div class="title">
                 <div>
-                  <span class="company-name">ABP Incubator</span>
+                  <span class="company-name">Example 2</span>
                 </div>
-                <small>Apprentice | <svg-icon name="location" small={true}></svg-icon> Yogyakarta, Indonesia | November 2018 - January 2019</small>
+                <small>Position | Location | Year of Experience</small>
               </div>
-              <p>Have Completed PRAKERIN at ABP Incubator in 2019</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
               <ul>
                 <li>
-                Conducted regular meetings with stakeholders to understand their business needs and them into detailed requirements for development teams.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </li>
                 <li>
-                Collaborated with IT teams to ensure the successful implementation of technology solutions in line with business objectives.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </li>
                 <li>
-                Assisted in the preparation of business cases, feasibility studies, and project plans for new initiatives
-                </li>         
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </li>
+                <li>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </li>   
               </ul>
             </div>
 
@@ -123,7 +124,7 @@ export class Arresume {
           <span>
             An Undergraduate {" "}
             <u>Computer Science</u> Student at{" "}
-            <i>Universitas Muslim Indonesia</i>, 2020.
+            <i>Example University</i>, 2020.
           </span>
         </section>
         <section class="skills">
@@ -138,14 +139,6 @@ export class Arresume {
                 <span class="tag">Angular</span>
                 <span class="tag">Bootstrap</span>
                 <span class="tag">CodeIgniter</span>
-              </div>
-            </li>
-            <br></br>
-            <li>
-              Mobile Development
-              <div class="tags-container">
-                <span class="tag">Flutter</span>
-                <span class="tag">.Net MAUI</span>
               </div>
             </li>
           </ul>
