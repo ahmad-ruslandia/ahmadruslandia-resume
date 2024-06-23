@@ -20,7 +20,7 @@ export class Arresume {
       <article class="resume">
         {this.showDownloadLink ? (
           <div class="download-pdf screen-only">
-            <a href="https://github.com/ahmad-ruslandia/resume/raw/main/Ahmad%20Ruslandia%20Papua.pdf">
+            <a href="https://github.com/ahmad-ruslandia/resume/raw/main/resume.pdf">
               Download as PDF
             </a>
           </div>
@@ -29,7 +29,7 @@ export class Arresume {
           )}
         <section class="name-and-contact">
           <div>
-            <h1>Ahmad Ruslandia Papua</h1>
+            <h1>Your Name</h1>
           </div>
           <ul>
             <li class="location">
@@ -55,7 +55,7 @@ export class Arresume {
         <section class="photo">
           <img
             class="avatar"
-            src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707197691/jfpsh44u8usnfydpy9lq.jpg"
+            src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1719162647/gcsxlpk5zpq2rmesin60.jpg"
           />
         </section>
         <section class="about">
