@@ -84,21 +84,14 @@
                 border-bottom-style: solid;
               }
             }
-
             &.location {
               grid-area: location;
             }
             &.email {
               grid-area: email;
             }
-            &.linkedin {
-              grid-area: linkedin;
-            }
             &.website {
               grid-area: website;
-            }
-            &.github {
-              grid-area: github;
             }
             &.languages {
               grid-area: languages;
@@ -260,9 +253,7 @@
       grid-template-areas:
         "email email"
         "website website"
-        "location languages"
-        "birthday experience"
-        "github linkedin";
+        "location languages";
 
       li {
         &.email{
@@ -282,8 +273,7 @@
 
         grid-template-areas:
           "location email"
-          "languages website"
-          "birthday github";
+          "languages website";
 
           li {
             &.email{
@@ -351,8 +341,7 @@
         &.name-and-contact ul {
           grid-template-areas:
           "location email"
-          "languages website"
-          "birthday github";
+          "languages website";
         }
       }
 
